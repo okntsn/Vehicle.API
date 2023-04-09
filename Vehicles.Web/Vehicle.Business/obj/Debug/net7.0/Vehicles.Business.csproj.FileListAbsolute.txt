@@ -1,0 +1,17 @@
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\bin\Debug\net7.0\Vehicles.Business.deps.json
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\bin\Debug\net7.0\Vehicles.Business.dll
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\bin\Debug\net7.0\Vehicles.Business.pdb
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\bin\Debug\net7.0\Vehicles.Domain.dll
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\bin\Debug\net7.0\Vehicles.Domain.pdb
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\Vehicles.Business.csproj.AssemblyReference.cache
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\Vehicles.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\Vehicles.Business.AssemblyInfoInputs.cache
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\Vehicles.Business.AssemblyInfo.cs
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\Vehicles.Business.csproj.CoreCompileInputs.cache
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\Vehicles.Business.csproj.CopyComplete
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\Vehicles.Business.dll
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\refint\Vehicles.Business.dll
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\Vehicles.Business.pdb
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\ref\Vehicles.Business.dll
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\bin\Debug\net7.0\Vehicles.Infrastructure.dll
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\bin\Debug\net7.0\Vehicles.Infrastructure.pdb

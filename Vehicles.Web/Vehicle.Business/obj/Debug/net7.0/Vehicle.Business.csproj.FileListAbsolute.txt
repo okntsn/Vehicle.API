@@ -1,0 +1,15 @@
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\bin\Debug\net7.0\Vehicle.Business.deps.json
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\bin\Debug\net7.0\Vehicle.Business.dll
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\bin\Debug\net7.0\Vehicle.Business.pdb
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\bin\Debug\net7.0\Vehicles.Domain.dll
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\bin\Debug\net7.0\Vehicles.Domain.pdb
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\Vehicle.Business.csproj.AssemblyReference.cache
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\Vehicle.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\Vehicle.Business.AssemblyInfoInputs.cache
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\Vehicle.Business.AssemblyInfo.cs
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\Vehicle.Business.csproj.CoreCompileInputs.cache
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\Vehicle.Business.csproj.CopyComplete
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\Vehicle.Business.dll
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\refint\Vehicle.Business.dll
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\Vehicle.Business.pdb
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicle.Business\obj\Debug\net7.0\ref\Vehicle.Business.dll

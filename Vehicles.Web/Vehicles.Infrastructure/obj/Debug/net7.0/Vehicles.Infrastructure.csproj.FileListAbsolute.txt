@@ -1,0 +1,17 @@
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\bin\Debug\net7.0\Vehicles.Infrastructure.deps.json
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\bin\Debug\net7.0\Vehicles.Infrastructure.dll
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\bin\Debug\net7.0\Vehicles.Infrastructure.pdb
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\bin\Debug\net7.0\Vehicles.Domain.dll
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\bin\Debug\net7.0\Vehicles.Domain.pdb
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\obj\Debug\net7.0\Vehicles.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\obj\Debug\net7.0\Vehicles.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\obj\Debug\net7.0\Vehicles.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\obj\Debug\net7.0\Vehicles.Infrastructure.AssemblyInfo.cs
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\obj\Debug\net7.0\Vehicles.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\obj\Debug\net7.0\Vehicles.Infrastructure.csproj.CopyComplete
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\obj\Debug\net7.0\Vehicles.Infrastructure.dll
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\obj\Debug\net7.0\refint\Vehicles.Infrastructure.dll
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\obj\Debug\net7.0\Vehicles.Infrastructure.pdb
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\obj\Debug\net7.0\ref\Vehicles.Infrastructure.dll
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\bin\Debug\net7.0\Vehicles.Infrastructure.runtimeconfig.json
+C:\Users\tsnok\OneDrive\Masaüstü\Web SİTE\Vehicles.Web\Vehicles.Infrastructure\obj\Debug\net7.0\Vehicles.Infrastructure.genruntimeconfig.cache
